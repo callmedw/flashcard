@@ -19,12 +19,15 @@ body {
   border-color: #87ebfa;
   background-color: #9787fa;
   width: 250px;
-  height: 200px;
+  height: 275px;
   margin: 5px;
   padding: 5px;
   cursor: pointer;
-  
+}
 
+.definition-a {
+  display: none;
+  font-size: 12px;
 }
 
 /*
@@ -55,3 +58,82 @@ body {
   font-weight: bold;
 }
 */
+.definition-b {
+  display: none;
+  font-size: 12px;
+}
+.definition-c {
+  display: none;
+  font-size: 12px;
+}
+.definition-d {
+  display: none;
+  font-size: 12px;
+}
+.definition-e {
+  display: none;
+  font-size: 12px;
+}
+.definition-f {
+  display: none;
+  font-size: 12px;
+}
+
+.definition-g {
+  display: none;
+  font-size: 12px;
+}
+.definition-h {
+  display: none;
+  font-size: 12px;
+}
+.definition-i {
+  display: none;
+  font-size: 12px;
+}
+.definition-j {
+  display: none;
+  font-size: 12px;
+}
+.definition-k {
+  display: none;
+  font-size: 12px;
+}
+.definition-l {
+  display: none;
+  font-size: 12px;
+}
+.definition-m {
+  display: none;
+  font-size: 12px;
+}
+.definition-n {
+  display: none;
+  font-size: 12px;
+}
+.definition-o {
+  display: none;
+  font-size: 12px;
+}
+.definition-p {
+  display: none;
+  font-size: 12px;
+}
+
+.definition-q {
+  display: none;
+  font-size: 12px;
+}
+
+.definition-r {
+  display: none;
+  font-size: 12px;
+}
+.definition-s {
+  display: none;
+  font-size: 12px;
+}
+.definition-t {
+  display: none;
+  font-size: 12px;
+}
